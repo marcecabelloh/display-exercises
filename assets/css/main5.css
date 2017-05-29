@@ -1,0 +1,113 @@
+body{
+	background-color: white;
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 600;
+}
+
+#contendores{
+	display: block;
+}
+
+.contendor1{
+	float: left;
+	width: 100%;
+}
+
+.contendor1 p{
+background-color: #ff0;
+height: 50px;
+margin: 0;
+padding: 10px;
+} 
+
+.contendor1 .es{
+	background-color: #ed2251;
+}
+
+/* contenedor dos */
+.contendor2{
+	float: left;
+	width: 15%;
+}
+
+.contendor2 p{
+background-color: #ff0;
+height: 50px;
+margin: 0;
+padding: 10px;
+} 
+
+.contendor2 .es{
+	background-color: #ed2251;
+}
+
+/* contenedor tres */
+.contendor3{
+float: left;
+margin: 10px;
+height: 20px;
+}
+
+.contendor3 p{
+display: inline-block;
+background-color: #ff0;
+height: 30px;
+padding: 5px;
+} 
+
+.contendor3 .es{
+	background-color: #ed2251;
+	width: 50px;
+}
+
+/* contenedor cuatro */
+.contendor4{
+display: inline-block;
+}
+
+.contendor4 p{
+	display: inline-block;
+background-color: #ff0;
+height: 30px;
+padding: 20px;
+width: 150px;
+margin-left: 10px;
+
+} 
+
+.contendor4 .es{
+	background-color: #ed2251;
+	display: inline-block;
+	width: 150px;
+}
+
+/* contenedor cinco */
+
+
+
+span{
+	text-align: center;
+	margin: 20px;
+}
+.uno{
+	width: 50px;
+	height: 50px;
+	background-color: #d61515;
+	display: block;
+}
+
+.cuadradodos {
+	width: 300px;
+	height: 100px;
+	background-color: #04c7d8;
+	display: inline-block;
+	margin: 20px;
+
+}
+
+.cuadradodos p{
+	width: 50px;
+	background-color: #075259;
+	margin: 50px;
+	overflow: auto;
+}
