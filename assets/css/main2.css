@@ -1,6 +1,5 @@
 body{
 	background-color: white;
-	
 }
 
 #cajas{
@@ -9,9 +8,9 @@ body{
 
 .caja1{
 	background-color: yellow;
-	width: 60%;
+	width: 40%;
 	height: 80px;
-	padding-top: 20px;
+	
 }
 
 .caja1 .laboratoria{
@@ -20,9 +19,9 @@ body{
 
 .caja2{
 	background-color: red;
-	width: 60%;
+	width: 40%;
 	height: 80px;
-	padding-top: 20px;
+
 
 }
 
@@ -32,9 +31,9 @@ body{
 
 .caja3{
 	background-color: yellow;
-	width: 60%;
+	width: 40%;
 	height: 80px;
-	padding-top: 20px;
+	
 }
 .caja3 .transformacion{
 	font-size: 20px;
